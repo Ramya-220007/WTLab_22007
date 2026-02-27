@@ -1,0 +1,17 @@
+ .a{
+    background-image: url("women.jpg");
+ }
+ .b{
+     margin-left:250px;
+     display:flex;
+     flex-direction: column-reverse;
+    }
+.c{
+        position:fixed;
+        top:20px;
+        right:20px;
+        display:flex;
+        flex-direction:column-reverse; 
+        margin-right: 380px; 
+                
+}
